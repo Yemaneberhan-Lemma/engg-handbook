@@ -6,4 +6,4 @@ description: Life's too short to repeat things (I know I am repeating this but l
 
 # Automate your way to laziness
 
-Life's too short to repeat things (I know I am repeating this but life's too short to find new maxims). Figure out a way to automate things you are doing repeatedly and frequently.
+Life's too short to repeat things (We know we are repeating this but life's too short to find new maxims). Figure out a way to automate things you are doing repeatedly and frequently.
